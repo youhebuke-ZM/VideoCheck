@@ -1,0 +1,2 @@
+# VideoCheck
+通过NSURLProtocol拦截WebView中的请求,解析出真实的视频地址
